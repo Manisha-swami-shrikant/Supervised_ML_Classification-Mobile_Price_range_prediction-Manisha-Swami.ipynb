@@ -22,6 +22,6 @@ Conclusion: This project demonstrates the effectiveness of using classification 
 
 
 
-Is this conversation helpful so far?
+
 
 
